@@ -1,0 +1,7 @@
+selenium
+SQLAlchemy
+pandas
+requests
+beautifulsoup4
+pytest
+pytest-mock
